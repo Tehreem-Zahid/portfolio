@@ -1,0 +1,21 @@
+.pic{
+    display: flex;
+    flex-direction: row;
+}
+.but{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+}
+.abc{
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    height: 100px;
+}
+/* .men img{
+        animation: mymove 10s infinite;
+}
+@keyframes mymove {
+    100% {transform: rotate(360deg);}
+  } */

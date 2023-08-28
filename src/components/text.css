@@ -1,0 +1,28 @@
+p{
+    font-size: 20px;
+    color: silver;
+}
+.p{
+    font-size: 20px;
+    color: seagreen;
+    padding-left: 20px;
+}
+hr{
+    color: silver;
+}
+h1{
+    margin-top: 40px;
+    color: seagreen;
+    font-size: 50px;
+
+}
+.mail{
+    width: 35px;
+    margin-top: 100px;
+    height: 35px;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+    filter:invert(1);
+}

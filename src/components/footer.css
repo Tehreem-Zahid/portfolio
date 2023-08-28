@@ -1,0 +1,13 @@
+.footer{
+    background-color: black;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 150px;
+    height: 70px;
+    border-top: 10px solid seagreen;
+    display: flex;
+    flex-direction: row;
+}
+.img{
+    filter:invert(1);
+}
